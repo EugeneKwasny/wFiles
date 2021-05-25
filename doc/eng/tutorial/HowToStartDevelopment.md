@@ -30,7 +30,7 @@ npm install -g wTesting@delta
 To build the project run
 
 ```bash
-will .npm.intall
+will .npm.install
 ```
 
 To check build was successful run tests.
